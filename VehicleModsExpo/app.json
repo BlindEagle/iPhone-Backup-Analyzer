@@ -21,6 +21,12 @@
         "backgroundColor": "#1a1a2e"
       },
       "package": "com.vehiclemods.app"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/vehicle-mods"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
